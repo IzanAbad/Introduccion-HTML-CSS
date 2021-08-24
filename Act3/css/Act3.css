@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    font-family:"Perpetua";
+    font-size: 20px;
+}
+a{
+    color:cadetblue;
+}
+p{
+    color:darkcyan;
+}
+li{
+    list-style: none;
+}
+h1{
+    background-color:darkgoldenrod;
+    color:darkgray;
+    font-size:30px;
+}
+h2{
+    color:lightseagreen;
+    font-size:45px;
+}
