@@ -1,0 +1,31 @@
+body{
+    font-family:"Lucida Sans Unicode";
+}
+h1{
+    color:#1F9849;
+}
+a{
+    color:#B6953E;
+}
+h2{
+    color:#35B913;
+}
+h3{
+    color:#B6953E;
+}
+.main_div{
+    display:flex;
+  }
+.div_der{
+
+     border-color: black;
+     border-width: 1px;
+
+  }
+.div_izq{
+
+    border-color: black;
+    border-width: 1px;
+    margin-right:30px;
+
+ }
